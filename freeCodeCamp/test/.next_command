@@ -90,3 +90,6 @@ ls --color=auto
 touch index.js
 touch .gitignore
 ls --color=auto
+command --help
+__vsc_prompt_cmd_original
+ls --color=auto --help
