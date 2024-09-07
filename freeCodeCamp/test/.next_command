@@ -88,3 +88,4 @@ touch styles.css
 rm styless.css
 ls --color=auto
 touch index.js
+touch .gitignore
