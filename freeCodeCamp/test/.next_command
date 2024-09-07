@@ -56,3 +56,4 @@ more has
 ls --color=auto -l has
 cd has
 ls --color=auto
+more README.md
