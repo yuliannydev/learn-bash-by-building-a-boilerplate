@@ -177,3 +177,5 @@ touch lato.ttf
 mv lato.ttf fonts
 mv menlo.otf fonts
 find
+mkdir clieng
+mkdir client
