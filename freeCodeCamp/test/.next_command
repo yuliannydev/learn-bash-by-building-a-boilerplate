@@ -151,3 +151,27 @@ mv roboto.woff fonts
 ls --color=auto
 fee
 find
+ls --color=auto
+ls --color=auto
+cd fonts/
+ls --color=auto
+mv lato.ttf website
+cd ..
+ls --color=auto
+ls --color=auto
+mv lato.ttf fonts
+ls --color=auto -a
+ls --color=auto -al
+cd fonts/
+ls --color=auto
+ls --color=auto
+cd ..
+ls --color=auto
+cd fonts/
+ls --color=auto
+rm -rf website
+..
+cd ..
+ls --color=auto
+touch lato.ttf
+mv lato.ttf fonts
