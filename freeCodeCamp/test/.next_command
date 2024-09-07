@@ -440,3 +440,25 @@ ls --color=auto
 cd ..
 cd images/
 ls --color=auto
+mv header.png website
+ls --color=auto
+ls --color=auto -al website
+rm website
+..
+cd ..
+ls --color=auto
+cd images/
+ls --color=auto
+touch header.png
+ls --color=auto
+mv header.png ../website
+ls --color=auto
+cd ..
+ls --color=auto
+__vsc_prompt_cmd_original
+rm website
+cd images/
+ls --color=auto
+touch header.png
+ls --color=auto
+mv header.png ../
