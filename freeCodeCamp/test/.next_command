@@ -71,3 +71,4 @@ cd ..
 cd ..
 pwd
 cd ../..
+ls --color=auto
