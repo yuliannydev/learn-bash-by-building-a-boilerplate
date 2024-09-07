@@ -85,3 +85,5 @@ rm index.htl
 ls --color=auto
 touch styless.css
 touch styles.css
+rm styless.css
+ls --color=auto
