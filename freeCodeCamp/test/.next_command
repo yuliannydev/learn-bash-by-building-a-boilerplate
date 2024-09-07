@@ -531,3 +531,9 @@ pwd
 mv header.png ../
 touch header.png
 mv header.png ../client/assets/images
+find header.png
+find
+cd ..
+find
+find --name header.png
+find -name header.png
