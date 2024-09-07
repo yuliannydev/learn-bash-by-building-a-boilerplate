@@ -462,3 +462,26 @@ ls --color=auto
 touch header.png
 ls --color=auto
 mv header.png ../
+..
+cd ..
+ls --color=auto
+find images
+cd client/
+cd assets/
+ls --color=auto
+find imahes{
+find images
+ls --color=auto
+cd images/
+ls --color=auto
+cd ..
+ls --color=auto
+cd images/
+ls --color=auto
+..
+cd ..
+cd ..
+cd ..
+ls --color=auto
+cd images/
+ls --color=auto
