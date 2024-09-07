@@ -487,3 +487,20 @@ cd images/
 ls --color=auto
 cd ..
 ls --color=auto
+cd client/assets/images/
+find
+cd ..
+cd ..
+cd ..
+ls --color=auto
+cd ..
+ls --color=auto
+cd website/
+cd client
+cd assets/
+cd images/
+cd ..
+cd..
+cd ..
+cd ..
+find -name images
