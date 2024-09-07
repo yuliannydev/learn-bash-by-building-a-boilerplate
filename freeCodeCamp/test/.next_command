@@ -148,3 +148,6 @@ mv lato.ttf fonts
 mv lato.ttf /fonts
 mv roboto.ttf fonts
 mv roboto.woff fonts
+ls --color=auto
+fee
+find
