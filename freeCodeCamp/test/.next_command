@@ -99,3 +99,6 @@ cd .
 touch background.jpg
 touch header.jpg
 touch header.png
+ls --color=auto
+rm header.jpg
+touch footer.jpeg
