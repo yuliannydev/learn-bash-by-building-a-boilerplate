@@ -134,3 +134,4 @@ cd ..
 __vsc_prompt_cmd_original
 ls --color=auto
 rm header.png
+rm footer.jpeg
