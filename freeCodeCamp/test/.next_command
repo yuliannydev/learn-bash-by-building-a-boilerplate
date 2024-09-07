@@ -63,3 +63,5 @@ clear
 ls --color=auto
 cd src/
 pwd
+cd worspace
+ls --color=auto
