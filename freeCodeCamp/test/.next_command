@@ -36,3 +36,4 @@ cd freeCodeCamp/
 __vsc_prompt_cmd_original
 freeCodeCamp
 pwd
+ls --color=auto
