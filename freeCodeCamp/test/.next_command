@@ -419,3 +419,4 @@ mkdir assets
 cd assets/
 mkdir images
 __vsc_prompt_cmd_original
+cd images/
