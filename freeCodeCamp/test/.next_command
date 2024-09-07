@@ -80,3 +80,8 @@ ls --color=auto
 echo hello website
 touch index.htl
 touch index.html
+ls --color=auto
+rm index.htl
+ls --color=auto
+touch styless.css
+touch styles.css
