@@ -175,3 +175,4 @@ cd ..
 ls --color=auto
 touch lato.ttf
 mv lato.ttf fonts
+mv menlo.otf fonts
