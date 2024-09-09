@@ -663,3 +663,6 @@ mv footer.jpeg client/assets/images
 ..
 cd ..
 mv images/footer.jpeg client/assets/images/
+find -name client/assets/images
+find -name images
+find
