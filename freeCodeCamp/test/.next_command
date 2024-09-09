@@ -674,3 +674,8 @@ ls --color=auto
 rm background.jpg
 cd ..
 rmdir images/
+find
+cd ..
+find
+cd website/
+ls --color=auto
