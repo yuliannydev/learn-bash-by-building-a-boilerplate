@@ -679,3 +679,14 @@ cd ..
 find
 cd website/
 ls --color=auto
+cd client/
+cd a
+cd assets/
+mkdir icons
+ls --color=auto
+ls --color=auto
+rmdir icons
+ls --color=auto
+cd ..
+cd ..
+mkdir client/assets/icons
