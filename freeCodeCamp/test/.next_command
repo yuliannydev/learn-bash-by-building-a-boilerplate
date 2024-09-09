@@ -692,3 +692,7 @@ cd ..
 mkdir client/assets/icons
 mv CodeAlly.svg client/assets/icons
 find
+find -name icons
+ls --color=auto
+mv CodeRoad.svg /client/assets/icons
+mv CodeRoad.svg client/assets/icons
