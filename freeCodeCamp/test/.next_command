@@ -667,3 +667,8 @@ find -name client/assets/images
 find -name images
 find
 rmdir images/
+rmdir images/background.jpg
+cd im
+cd images/
+ls --color=auto
+rm background.jpg
