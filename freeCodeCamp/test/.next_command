@@ -856,3 +856,6 @@ find website-boilerplate/
 clear
 echo goodbye
 echo goodbye terminal
+wxit
+wxit
+exit
