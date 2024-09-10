@@ -819,3 +819,6 @@ rm -help
 rm --help
 rm -r fonts
 ls --color=auto
+ls --color=auto
+ls --color=auto -al
+touch package.json
