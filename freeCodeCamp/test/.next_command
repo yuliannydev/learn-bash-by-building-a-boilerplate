@@ -812,3 +812,4 @@ cd website/
 ls --color=auto
 find
 touch client/assets/fonts/lato-bold.ttf
+touch client/assets/fonts/lato-light.ttf
