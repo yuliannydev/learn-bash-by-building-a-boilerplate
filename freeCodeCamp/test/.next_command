@@ -832,3 +832,7 @@ echo I finished the boilerplate!
 echo one more thing...
 echo I made this boilerplate >> README.md
 more README.md
+echo README.md
+echo I made this boilerplate >> README.md
+echo echo from the command line >> README.md
+echo from the command line >> README.md
